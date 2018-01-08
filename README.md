@@ -10,7 +10,7 @@ In progress
 
 # 2017 Style
 
-![https://raw.githubusercontent.com/ournetworks/artwork/master/2017/state-of-logo.png]
+![State of Our Networks 2017 logo](https://raw.githubusercontent.com/ournetworks/artwork/master/2017/state-of-logo.png)
 
 B+W meets mid-2000s punk fonts.
 
