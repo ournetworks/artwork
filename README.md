@@ -8,7 +8,7 @@ Unless otherwise noted, <span xmlns:dct="http://purl.org/dc/terms/" property="dc
 
 In [`2019`](./2019/):
 -  `our-networks-*` designed by Amelia Zhang, uses:
-  - [Nimbus Sans L]() by [URW++](https://www.urwtype.com/) GPLv2
+  - [Nimbus Sans L](https://www.fontsquirrel.com/fonts/nimbus-sans-l) by [URW++](https://www.urwtype.com/) GPLv2
 
 # 2018 Design Concept and Logo
 
