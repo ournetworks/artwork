@@ -4,6 +4,12 @@ This repository has logo, poster, and sticker artwork for State of Our Networks.
 
 Unless otherwise noted, <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks Artwork</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+# 2019 Design Concept
+
+In [`2019`](./2019/):
+-  `our-networks-*` designed by Amelia Zhang, uses:
+  - [Nimbus Sans L](https://www.fontsquirrel.com/fonts/nimbus-sans-l) by [URW++](https://www.urwtype.com/) GPLv2
+
 # 2018 Design Concept and Logo
 
 ![Our Networks 2018 Logo](https://raw.githubusercontent.com/ournetworks/artwork/master/2018/our-networks-logo-2018-b.png)
