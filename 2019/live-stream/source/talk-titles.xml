@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"    "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+  <!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+  <!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+  <!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+  <!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+  <!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+  <!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+]>
+<svg>
+<variableSets  xmlns="&ns_vars;">
+  <variableSet  varSetName="binding1" locked="none">
+    <variables>
+      <variable varName="dataset" trait="textcontent" category="&ns_flows;"></variable>
+      <variable varName="title" trait="textcontent" category="&ns_flows;"></variable>
+    </variables>
+    <v:sampleDataSets  xmlns:v="http://ns.adobe.com/Variables/1.0/" xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/">
+      <v:sampleDataSet dataSetName="1">
+        <dataset>
+          <p>1</p>
+        </dataset>
+        <title>
+          <p>A Digital Bundle Protecting And Promoting Indigenous Knowledge Online</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="2">
+        <dataset>
+          <p>2</p>
+        </dataset>
+        <title>
+          <p>The Netifesto</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="3">
+        <dataset>
+          <p>3</p>
+        </dataset>
+        <title>
+          <p>The Impotent Medium</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="4">
+        <dataset>
+          <p>4</p>
+        </dataset>
+        <title>
+          <p>Spectacular Grammar Infrastructure As A Universal Language</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="5">
+        <dataset>
+          <p>5</p>
+        </dataset>
+        <title>
+          <p>Solar Powered Website</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="6">
+        <dataset>
+          <p>6</p>
+        </dataset>
+        <title>
+          <p>Social Artistic And Theoretical Experiments With Decentralized Festivals</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="7">
+        <dataset>
+          <p>7</p>
+        </dataset>
+        <title>
+          <p>Remaking The Web: Competing Visions Of Decentralization</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="8">
+        <dataset>
+          <p>8</p>
+        </dataset>
+        <title>
+          <p>Regulationism And The Need For A Digital Postmodernism</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="9">
+        <dataset>
+          <p>9</p>
+        </dataset>
+        <title>
+          <p>Networks As Sculpture</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="10">
+        <dataset>
+          <p>10</p>
+        </dataset>
+        <title>
+          <p>Mesh Lightning Talks: Sarantaporo.gr</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="11">
+        <dataset>
+          <p>11</p>
+        </dataset>
+        <title>
+          <p>Mesh Lightning Talks: NYC Mesh</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="12">
+        <dataset>
+          <p>12</p>
+        </dataset>
+        <title>
+          <p>Mesh Lightning Talks: I2P Intro For App Devs</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="13">
+        <dataset>
+          <p>13</p>
+        </dataset>
+        <title>
+          <p>Mesh Lightning Talks: Freifunk</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="14">
+        <dataset>
+          <p>14</p>
+        </dataset>
+        <title>
+          <p>Hugo Wasm Plus IPFS Blogging</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="15">
+        <dataset>
+          <p>15</p>
+        </dataset>
+        <title>
+          <p>Distributing Knowledge Of Digital Workflows Via Workshops And Support Groups</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="16">
+        <dataset>
+          <p>16</p>
+        </dataset>
+        <title>
+          <p>Distributed Secure Routing In Permissionless Flat Networks</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="17">
+        <dataset>
+          <p>17</p>
+        </dataset>
+        <title>
+          <p>Distributed Internet Archiving Plus Low Power Long Distance Meshing With LoRaWAN</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="18">
+        <dataset>
+          <p>18</p>
+        </dataset>
+        <title>
+          <p>DHT BFT OMG Know Your Building Blocks For Decentralized Applications 2019 Edition</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="19">
+        <dataset>
+          <p>19</p>
+        </dataset>
+        <title>
+          <p>May First, Technology And Revolution</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="20">
+        <dataset>
+          <p>20</p>
+        </dataset>
+        <title>
+          <p>Cryptoeconomics Towards Mass Behavioral Engineering Or A Network Commons</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="21">
+        <dataset>
+          <p>21</p>
+        </dataset>
+        <title>
+          <p>Collective Resistance To State Controls On Information</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="22">
+        <dataset>
+          <p>22</p>
+        </dataset>
+        <title>
+          <p>Channel Channel</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="23">
+        <dataset>
+          <p>23</p>
+        </dataset>
+        <title>
+          <p>Building A Modern Memex</p>
+        </title>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="24">
+        <dataset>
+          <p>24</p>
+        </dataset>
+        <title>
+          <p>A Technical Introduction To IPFS</p>
+        </title>
+      </v:sampleDataSet>
+    </v:sampleDataSets>
+  </variableSet>
+</variableSets>
+</svg>
